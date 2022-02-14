@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://render.ejemplo.org/sitemap.xml
+Sitemap: https://test-g5la.onrender.com/sitemap.xml

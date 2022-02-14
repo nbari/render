@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://render.ejemplo.org/</loc>
+        <loc>https://test-g5la.onrender.com/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/section-test/</loc>
+        <loc>https://test-g5la.onrender.com/section-test/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/section-test/page/1/</loc>
+        <loc>https://test-g5la.onrender.com/section-test/page/1/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/section-test/test/</loc>
+        <loc>https://test-g5la.onrender.com/section-test/test/</loc>
         <lastmod>2020-10-28</lastmod>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/section-test/test2/</loc>
+        <loc>https://test-g5la.onrender.com/section-test/test2/</loc>
         <lastmod>2020-10-31</lastmod>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/some-article/</loc>
+        <loc>https://test-g5la.onrender.com/some-article/</loc>
         <lastmod>2017-09-20</lastmod>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/some-other-article/</loc>
+        <loc>https://test-g5la.onrender.com/some-other-article/</loc>
         <lastmod>2017-09-29</lastmod>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/</loc>
+        <loc>https://test-g5la.onrender.com/tags/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/other/</loc>
+        <loc>https://test-g5la.onrender.com/tags/other/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/other/page/1/</loc>
+        <loc>https://test-g5la.onrender.com/tags/other/page/1/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/post/</loc>
+        <loc>https://test-g5la.onrender.com/tags/post/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/post/page/1/</loc>
+        <loc>https://test-g5la.onrender.com/tags/post/page/1/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/rust/</loc>
+        <loc>https://test-g5la.onrender.com/tags/rust/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/rust/page/1/</loc>
+        <loc>https://test-g5la.onrender.com/tags/rust/page/1/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/ssg/</loc>
+        <loc>https://test-g5la.onrender.com/tags/ssg/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/ssg/page/1/</loc>
+        <loc>https://test-g5la.onrender.com/tags/ssg/page/1/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/test/</loc>
+        <loc>https://test-g5la.onrender.com/tags/test/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/test/page/1/</loc>
+        <loc>https://test-g5la.onrender.com/tags/test/page/1/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/theme/</loc>
+        <loc>https://test-g5la.onrender.com/tags/theme/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/theme/page/1/</loc>
+        <loc>https://test-g5la.onrender.com/tags/theme/page/1/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/zola/</loc>
+        <loc>https://test-g5la.onrender.com/tags/zola/</loc>
     </url>
     <url>
-        <loc>https://render.ejemplo.org/tags/zola/page/1/</loc>
+        <loc>https://test-g5la.onrender.com/tags/zola/page/1/</loc>
     </url>
 </urlset>

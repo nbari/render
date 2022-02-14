@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>test</title>
 	<subtitle>test render</subtitle>
-	<link href="https://render.ejemplo.org/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://render.ejemplo.org"/>
+	<link href="https://test-g5la.onrender.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://test-g5la.onrender.com"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2020-10-31T00:00:00+00:00</updated>
-	<id>https://render.ejemplo.org/atom.xml</id>
+	<id>https://test-g5la.onrender.com/atom.xml</id>
 	<entry xml:lang="en">
 		<title>And another one</title>
 		<published>2020-10-31T00:00:00+00:00</published>
 		<updated>2020-10-31T00:00:00+00:00</updated>
-		<link href="https://render.ejemplo.org/section-test/test2/" type="text/html"/>
-		<id>https://render.ejemplo.org/section-test/test2/</id>
+		<link href="https://test-g5la.onrender.com/section-test/test2/" type="text/html"/>
+		<id>https://test-g5la.onrender.com/section-test/test2/</id>
 		<content type="html">&lt;p&gt;:)&lt;&#x2F;p&gt;
 </content>
 	</entry>
@@ -20,8 +20,8 @@
 		<title>Test for section</title>
 		<published>2020-10-28T00:00:00+00:00</published>
 		<updated>2020-10-28T00:00:00+00:00</updated>
-		<link href="https://render.ejemplo.org/section-test/test/" type="text/html"/>
-		<id>https://render.ejemplo.org/section-test/test/</id>
+		<link href="https://test-g5la.onrender.com/section-test/test/" type="text/html"/>
+		<id>https://test-g5la.onrender.com/section-test/test/</id>
 		<content type="html">&lt;p&gt;Testing.&lt;&#x2F;p&gt;
 </content>
 	</entry>
@@ -29,8 +29,8 @@
 		<title>A first theme for Zola</title>
 		<published>2017-09-29T00:00:00+00:00</published>
 		<updated>2017-09-29T00:00:00+00:00</updated>
-		<link href="https://render.ejemplo.org/some-other-article/" type="text/html"/>
-		<id>https://render.ejemplo.org/some-other-article/</id>
+		<link href="https://test-g5la.onrender.com/some-other-article/" type="text/html"/>
+		<id>https://test-g5la.onrender.com/some-other-article/</id>
 		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque. Praesent ac sem ut justo volutpat rutrum a imperdiet tellus. Nam lobortis massa non hendrerit hendrerit. Vivamus porttitor dignissim turpis, eget aliquam urna tincidunt non. Aliquam et fringilla turpis. Nullam eros est, eleifend in ornare sed, hendrerit eget est. Aliquam tellus felis, suscipit vitae ex vel, fringilla tempus massa. Nulla facilisi. Pellentesque lobortis consequat lectus. Maecenas ac libero elit.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;p&gt;Ut luctus dolor ut tortor hendrerit, sed hendrerit augue scelerisque. Suspendisse quis sodales dui, at tempus ante. Nulla at tempor metus. Aliquam vitae rutrum diam. Curabitur iaculis massa dui, quis varius nulla finibus a. Praesent eu blandit justo. Suspendisse pharetra, arcu in rhoncus rutrum, magna magna viverra erat, eget vestibulum enim tellus id dui. Nunc vel dui et arcu posuere maximus. Mauris quam quam, bibendum sed libero nec, tempus hendrerit arcu. Suspendisse sed gravida orci. Fusce tempor arcu ac est pretium porttitor. Aenean consequat risus venenatis sem aliquam, at sollicitudin nulla semper. Aenean bibendum cursus hendrerit. Nulla congue urna nec finibus bibendum. Donec porta tincidunt ligula non ultricies.&lt;&#x2F;p&gt;
@@ -43,8 +43,8 @@
 		<title>What is Zola</title>
 		<published>2017-09-20T00:00:00+00:00</published>
 		<updated>2017-09-20T00:00:00+00:00</updated>
-		<link href="https://render.ejemplo.org/some-article/" type="text/html"/>
-		<id>https://render.ejemplo.org/some-article/</id>
+		<link href="https://test-g5la.onrender.com/some-article/" type="text/html"/>
+		<id>https://test-g5la.onrender.com/some-article/</id>
 		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque. Praesent ac sem ut justo volutpat rutrum a imperdiet tellus. Nam lobortis massa non hendrerit hendrerit. Vivamus porttitor dignissim turpis, eget aliquam urna tincidunt non. Aliquam et fringilla turpis. Nullam eros est, eleifend in ornare sed, hendrerit eget est. Aliquam tellus felis, suscipit vitae ex vel, fringilla tempus massa. Nulla facilisi. Pellentesque lobortis consequat lectus. Maecenas ac libero elit.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;p&gt;Ut luctus dolor ut tortor hendrerit, sed hendrerit augue scelerisque. Suspendisse quis sodales dui, at tempus ante. Nulla at tempor metus. Aliquam vitae rutrum diam. Curabitur iaculis massa dui, quis varius nulla finibus a. Praesent eu blandit justo. Suspendisse pharetra, arcu in rhoncus rutrum, magna magna viverra erat, eget vestibulum enim tellus id dui. Nunc vel dui et arcu posuere maximus. Mauris quam quam, bibendum sed libero nec, tempus hendrerit arcu. Suspendisse sed gravida orci. Fusce tempor arcu ac est pretium porttitor. Aenean consequat risus venenatis sem aliquam, at sollicitudin nulla semper. Aenean bibendum cursus hendrerit. Nulla congue urna nec finibus bibendum. Donec porta tincidunt ligula non ultricies.&lt;&#x2F;p&gt;
